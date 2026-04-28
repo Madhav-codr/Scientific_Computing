@@ -1,6 +1,6 @@
 # Scientific Computing
 
-A collection of notebooks and experiments focused on **scientific computing**, with an emphasis on **visualization** and **numerical solutions** to problems from fundamental sciences.
+A collection of notebooks and experiments focused on **scientific computing**, with an emphasis on **visualization** and applying **computational techniques** to problems from fundamental sciences.
 
 ---
 
