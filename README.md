@@ -30,10 +30,13 @@ This repository focuses on applying computational techniques to explore and unde
 ## 🛠️ Tech Stack
 
 * Python
+    * numPy
+    * matplotlib
+    * scipy
+    * adjustText
+    * molmass
 * Jupyter Notebook
-* NumPy
-* Matplotlib
-* Scipy
+
 
 ---
 
@@ -99,7 +102,7 @@ Contributions are welcome. You can:
 
 ## 📜 License
 
-This project is licensed under the terms specified in the `LICENSE` file.
+This project is licensed under the terms specified in the [`LICENSE`](LICENSE) file.
 
 ---
 
